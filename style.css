@@ -1,0 +1,138 @@
+body {
+  background: #0d1117 url('https://www.transparenttextures.com/patterns/circuit-board.png');
+  color: #e6edf3;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1000px;
+  margin: autoy
+  padding: 20px;
+}
+
+.profile-pic {
+  width: 250px; 
+  height: auto;
+  border-radius: 0;   
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
+
+header {
+  text-align: center;
+  padding: 60px 20px;
+  background: rgba(255,255,255,0.05); 
+  border: 1px solid #30363d;
+  border-radius: 10px;
+}
+
+header h1 {
+  font-size: 2.8em;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #00d4ff; 
+}
+
+header p {
+  font-size: 1.2em;
+  color: #e6edf3;
+  line-height: 1.5;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #00d4ff; 
+  font-weight: bold;
+}
+
+
+section {
+  background: rgba(255,255,255,0.05); 
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 6px rgba(0,255,255,0.2); 
+}
+
+section h2 {
+  color: #00d4ff;
+  margin-bottom: 15px;
+}
+
+
+main {
+  display: block;   
+}
+
+#skills h3 {
+  color: #00d4ff;
+  margin-top: 20px;
+}
+
+#skills ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+#skills li {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 8px;
+  margin-bottom: 8px;
+  color: #e6edf3;
+}
+
+#qualifications h3 {
+  color: #00d4ff;
+  margin-top: 20px;
+}
+
+#qualifications ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+#qualifications li {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 8px;
+  margin-bottom: 8px;
+  color: #e6edf3;
+}
+
+footer {
+  background: #111;
+  color: #00d4ff;
+  text-align: center;
+  padding: 20px;
+}
+#references p {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: #e6edf3;
+}
+
+
