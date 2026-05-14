@@ -20,7 +20,7 @@ This project emphasizes **semantic markup**, **accessibility**, and **clean desi
 ##  Project Structure
 cv-website/
 │
-├── index.html        # Main CV page
+├── cv.html        # Main CV page
 ├── style.css         # Styling and layout
 └── README.md         # Project documentation
 
