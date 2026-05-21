@@ -8,7 +8,7 @@ body {
 
 .container {
   max-width: 1000px;
-  margin: autoy
+  margin: auto;
   padding: 20px;
 }
 
@@ -134,5 +134,3 @@ footer {
   margin-bottom: 10px;
   color: #e6edf3;
 }
-
-
