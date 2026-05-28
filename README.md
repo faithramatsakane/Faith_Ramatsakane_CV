@@ -111,7 +111,7 @@ This project is deployed using GitHub Pages.
 ### Live Website
 
 ```plaintext
-https://yourusername.github.io/cv-website/
+[https://yourusername.github.io/cv-website/](https://faithramatsakane.github.io/Faith_Ramatsakane_CV/)
 ```
 
 ---
