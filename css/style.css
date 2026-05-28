@@ -135,6 +135,29 @@ footer {
   color: #e6edf3;
 }
 
+#weather-box {
+  background: #111;
+  color: #00d4ff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 320px;
+  margin-top: 20px;
+  box-shadow: 0 2px 6px rgba(0,255,255,0.2);
+  text-align: center;
+}
+
+#weather-box img {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+}
+
+#datetime {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #ccc;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 768px) {
   nav ul {
@@ -167,4 +190,5 @@ footer {
   header p {
     font-size: 1em;
   }
+
 }
